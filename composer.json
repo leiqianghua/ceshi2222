@@ -1,10 +1,10 @@
 {
-    "name": "leiqianghua/ceshi",
+    "name": "leiqianghua/ceshi2222",
     "license": "BSD-3-Clause",
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "leiqianghua\\leiqianghua\\": ""
+            "leiqianghua\\ceshi2222\\": ""
         }
     }
 }
