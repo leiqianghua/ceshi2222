@@ -1,0 +1,10 @@
+{
+    "name": "leiqianghua/ceshi",
+    "license": "BSD-3-Clause",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "leiqianghua\\leiqianghua\\": ""
+        }
+    }
+}
